@@ -1,4 +1,4 @@
-void testfanction()
+﻿void testfanction()
 {
 	printf("testtest");
 }
