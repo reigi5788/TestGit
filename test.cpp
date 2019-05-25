@@ -4,5 +4,5 @@
 }
 void chagegetter()
 {
-	print("change!getter1!");
+	print("change!getter2!");
 }
